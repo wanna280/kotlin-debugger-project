@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-arthas" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-arthas/kotlin-debugger-arthas-cli" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-arthas/kotlin-debugger-arthas-client" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-arthas/kotlin-debugger-arthas-common" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-bistoury" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-bistoury/kotlin-debugger-bistoury-agent" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-bistoury/kotlin-debugger-bistoury-client" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-bistoury/kotlin-debugger-bistoury-proxy" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-bistoury/kotlin-debugger-bistoury-remoting" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-bistoury/kotlin-debugger-bistoury-serverside-common" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-bistoury/kotlin-debugger-bistoury-spy" />
+            <option value="$PROJECT_DIR$/kotlin-debugger-jvm" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
